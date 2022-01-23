@@ -2,7 +2,6 @@
 
 ![Alt-Text](https://static.wixstatic.com/media/1aff8b_d7e0989e6d1e42af85adba30a1a270c2~mv2.png/v1/crop/x_0,y_230,w_1080,h_617/fill/w_335,h_191,al_c,q_85,usm_2.00_1.00_0.00/output-onlinepngtools.webp)
 
-![Alt-Text](https://static.wixstatic.com/media/1aff8b_140e9259b5814534a1ec45dca767932f~mv2.png/v1/fill/w_411,h_411,al_c,q_85,usm_2.00_1.00_0.00/output-onlinepngtools%20(1).webp)
 
 Códigos criados na terceira edição da Jornada Quant
 
