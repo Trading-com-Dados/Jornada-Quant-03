@@ -1,6 +1,6 @@
 # Jornada Quant 03
 
-![Alt-Text](https://static.wixstatic.com/media/1aff8b_d7e0989e6d1e42af85adba30a1a270c2~mv2.png/v1/crop/x_0,y_230,w_1080,h_617/fill/w_335,h_191,al_c,q_85,usm_2.00_1.00_0.00/output-onlinepngtools.webp)
+![Alt-Text](https://static.wixstatic.com/media/1aff8b_fd2648e97ba0463b96d2ea30703dff24~mv2.png/v1/crop/x_0,y_234,w_1033,h_578/fill/w_354,h_198,al_c,q_85,usm_2.00_1.00_0.00/output-onlinepngtools%20(2).webp)
 
 
 Códigos criados na terceira edição da Jornada Quant
