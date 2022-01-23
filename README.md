@@ -1,5 +1,7 @@
 # Jornada Quant 03
 
+![Alt-Text](https://static.wixstatic.com/media/1aff8b_d7e0989e6d1e42af85adba30a1a270c2~mv2.png/v1/crop/x_0,y_230,w_1080,h_617/fill/w_335,h_191,al_c,q_85,usm_2.00_1.00_0.00/output-onlinepngtools.webp)
+
 Códigos criados na terceira edição da Jornada Quant
 
 Se você gosta de mercado financeiro, provavelmente já ouviu falar sobre a área "quant" e que ela está crescendo muito!
