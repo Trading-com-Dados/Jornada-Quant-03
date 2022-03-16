@@ -12,4 +12,5 @@ Isso acontece pois o acesso a uma quantidade cada vez maior de dados e a difusã
 
 A Jornada Quant é um evento online, ao vivo e gratuito que tem como objetivo ser a porta de entrada para quem quer ingressar no mundo quant.
 
+
 A terceira edição da Jornada Quant foi realizada entre os dias 11 a 15 de outubro de 2021.
